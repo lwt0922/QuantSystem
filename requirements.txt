@@ -3,10 +3,4 @@ pandas
 plotly
 yfinance
 akshare
-sqlite3
-time
-random
 requests
-datetime
-os
-sys
