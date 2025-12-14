@@ -4,7 +4,7 @@ numpy
 plotly
 torch
 graphviz
-sklearn
+scikit-learn
 tushare
-sqlite3
+
 
