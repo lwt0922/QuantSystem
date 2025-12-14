@@ -1,6 +1,10 @@
 streamlit
 pandas
+numpy
 plotly
-yfinance
-akshare
-requests
+torch
+graphviz
+math
+sklearn
+tushare
+sqlite3
